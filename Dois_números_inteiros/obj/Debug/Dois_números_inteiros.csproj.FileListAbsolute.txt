@@ -1,0 +1,7 @@
+C:\Aula1c#\Dois_números_inteiros\Dois_números_inteiros\bin\Debug\Dois_números_inteiros.exe.config
+C:\Aula1c#\Dois_números_inteiros\Dois_números_inteiros\bin\Debug\Dois_números_inteiros.exe
+C:\Aula1c#\Dois_números_inteiros\Dois_números_inteiros\bin\Debug\Dois_números_inteiros.pdb
+C:\Aula1c#\Dois_números_inteiros\Dois_números_inteiros\obj\Debug\Dois_números_inteiros.csproj.AssemblyReference.cache
+C:\Aula1c#\Dois_números_inteiros\Dois_números_inteiros\obj\Debug\Dois_números_inteiros.csproj.CoreCompileInputs.cache
+C:\Aula1c#\Dois_números_inteiros\Dois_números_inteiros\obj\Debug\Dois_números_inteiros.exe
+C:\Aula1c#\Dois_números_inteiros\Dois_números_inteiros\obj\Debug\Dois_números_inteiros.pdb
